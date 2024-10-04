@@ -19,15 +19,16 @@ Education
 
 Academic Experience
 ===========
-* X. Feng, L. Li, D. Liu and F. Wu. (2024). Efficient Partition Map Prediction via Token Sparsification for Fast VVC Intra Coding. IEEE 26th International Workshop on Multimedia Signal Processing (MMSP 2024). (Oral Presentation)
-* R. Mao, X. Feng, L. Li, D. Liu, X. Sun and F. Wu. Perceptual Image Compression with Conditional Diffusion Transformers. IEEE Visual Communications and Image Processing (VCIP 2024).
-* X. Feng, Z. Li, L. Li, D. Liu, and F. Wu. Partition Map-Based Fast Block Partitioning for VVC Interframe Coding. IEEE Transactions on Multimedia (TMM). (under review)
-* X. Feng, Z. Li, L. Li, D. Liu, and F. Wu. Compression-aware Temporal Video Rescaling Network. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). (under review)
+* **X. Feng**, L. Li, D. Liu and F. Wu. (2024). Efficient Partition Map Prediction via Token Sparsification for Fast VVC Intra Coding. _IEEE 26th International Workshop on Multimedia Signal Processing (MMSP 2024)_. (Oral Presentation)
+* R. Mao, **X. Feng**, L. Li, D. Liu, X. Sun and F. Wu. Perceptual Image Compression with Conditional Diffusion Transformers. _IEEE Visual Communications and Image Processing (VCIP 2024)_.
+* **X. Feng**, Z. Li, L. Li, D. Liu, and F. Wu. Partition Map-Based Fast Block Partitioning for VVC Interframe Coding. _IEEE Transactions on Multimedia (TMM)_. (under review)
+* **X. Feng**, Z. Li, L. Li, D. Liu, and F. Wu. Compression-aware Temporal Video Rescaling Network. _The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)_. (under review)
 
 Awards
 ==============
 * Second Prize Winner of the 2022 IEEE VCIP Grand Challenge Award “Practical end-to-end-image compression” (2022)
 * First-class Scholarship of University of Science and Technology (2022, 2023, 2024)
 * Outstanding Graduate of Xidian University (2022)
+* First-class Scholarship of Xidian University (2019, 2020, 2021)
 * National First Prize of the National College Student Mathematical Modeling Competition (2021)
 * Xiaomi Scholarship (2020)
