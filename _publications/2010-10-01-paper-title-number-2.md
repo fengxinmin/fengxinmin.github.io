@@ -1,7 +1,7 @@
 ---
 title: "Perceptual Image Compression with Conditional Diffusion Transformers"
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-10-1
