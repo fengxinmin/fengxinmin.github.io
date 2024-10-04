@@ -11,54 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Information and Communication Engeering, University of Science and Technology of China, 2025 (Expected)
+* B.S. in Electronic Engeering, Xidian University, 2022
 
-Work experience
+Academic Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **X. Feng**, L. Li, D. Liu and F. Wu. (2024). Efficient Partition Map Prediction via Token Sparsification for Fast VVC Intra Coding.  IEEE 26th International Workshop on Multimedia Signal Processing (MMSP 2024). **(Oral Presentation)**
+* R. Mao, **X. Feng**, L. Li, D. Liu,  X. Sun and F. Wu.  Perceptual Image Compression with Conditional Diffusion Transformers. IEEE Visual Communications and Image Processing (VCIP 2024). 
+* **X. Feng**, Z. Li, L. Li, D. Liu, and F. Wu.  Partition Map-Based Fast Block Partitioning for VVC Interframe Coding. IEEE Transactions on Multimedia (TMM). **(under review)**
+* **X. Feng**, Z. Li, L. Li, D. Liu, and F. Wu.  Compression-aware Temporal Video Rescaling Network.  The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). **(under review)**
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Second Prize Winner of the 2022 IEEE VCIP Grand Challenge Award “Practical end-to-end-image compression” (2022)
+• First-class Scholarship of University of Science and Technology (2022, 2023, 2024)
+• Outstanding Graduate of Xidian University (2022)
+• National First Prize of the National College Student Mathematical Modeling Competition (2021)
+• Xiaomi Scholarship (2020)
