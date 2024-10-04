@@ -13,7 +13,7 @@ I'm very fortunate to be co-advised by Prof. [Dong Liu](https://faculty.ustc.edu
 
 
 Educational Background
-------
+============
 B.S., Electronic and Information Engineering, School of Electronic Engineering, Xidian University, 2018.9-2022.6
 
 M.S., Information and Communication Engineering, School of Information Science and Technology, University of Science and Technology of China, 2022.9-2025.6 (Expected)
