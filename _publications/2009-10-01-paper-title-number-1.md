@@ -1,7 +1,7 @@
 ---
 title: "Efficient Partition Map Prediction via Token Sparsification for Fast VVC Intra Coding"
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about reducing the inference overhead of fast block partitioning depolyed in VVC intra coding.'
 date: 2024-10-04
